@@ -39,4 +39,4 @@ class SignupPage {
     }
 }
 
-export const signup = new SignupPage();
+export const signUp = new SignupPage();
