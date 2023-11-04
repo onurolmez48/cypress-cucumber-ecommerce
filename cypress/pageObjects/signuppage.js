@@ -20,7 +20,7 @@ class SignupPage {
 
 
    
-    webPage(){
+    webPage( ){
         cy.visit('https://automationexercise.com')
         cy.title().should('eq','Automation Exercise')
     }
